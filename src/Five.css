@@ -1,0 +1,71 @@
+.one{
+    border: 2px solid rgb(212, 209, 209);
+    width: 100%;
+    height:70px;
+    background-color: rgb(72, 6, 6);
+}
+.heading{
+    font-weight: 900;
+}
+.appl{
+    display: flex;
+    align-items: center;
+}
+input{
+    margin: 15px;
+}
+.main head{
+    font-weight: bolder;
+}
+ 
+.description{
+    font-size: larger;
+
+} 
+#area{
+    width: 90%;
+}
+
+.tats{
+    display: flex;
+    font-weight: bolder;
+}
+#text{
+    width:90%;
+    background-color: rgb(70, 64, 64);
+}
+button{
+     padding-top: 20px;
+    padding-bottom: 20px; 
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.switch{
+    margin-left: auto;
+}
+
+.Title{
+    width: 90%;
+    padding: 10px;
+    background-color: rgb(68, 45, 45);
+
+}
+.border{
+    border: 5px solid rgb(7, 150, 145);
+    background-color: rgb(34, 9, 131);
+}
+.question{
+    text-align: center;
+
+    
+    font-size: 25px;
+
+}
+.Article_Margin{
+    margin-top: 25px;
+}
+.switch {
+    text-align: right;
+  }
